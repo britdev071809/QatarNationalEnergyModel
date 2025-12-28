@@ -30,4 +30,12 @@ The Qatar National Energy Model is structured around three core components:
 
 ## How to Contribute
 
-*(This section will be populated with contribution guidelines, workflow instructions, and contact information for the academic teams.)*
+Academic teams from Education City universities are invited to participate in the development of the Qatar National Energy Model. The process is outlined below:
+
+1. **Fork the repository** on GitHub and clone your copy locally.
+2. **Create a new branch** for your changes (`git checkout -b your-branch`).
+3. **Make your changes** and commit them (`git commit -m "description of your changes"`).
+4. **Push** your changes to your fork (`git push origin your-branch`).
+5. **Open a pull request** and describe your modifications. Please include any necessary updates to the documentation.
+
+Please contact the project lead at [project‑lead@example.com](mailto:project‑lead@example.com) to coordinate your work with the relevant university team.
